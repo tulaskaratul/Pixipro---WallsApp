@@ -1,2 +1,2 @@
-# Pixipro---WallsApp
+# Pixipro-WallsApp
 Android Wallpaper Application
